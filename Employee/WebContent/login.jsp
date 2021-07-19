@@ -8,7 +8,7 @@
 </head>
 <body>
 <div align ="center">
-<h1>User Login Form</h1>
+<h1>Employee Login Form</h1>
 <form action ="login" method="post">
 <table>
 
