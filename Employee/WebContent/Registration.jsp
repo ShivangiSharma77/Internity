@@ -8,6 +8,8 @@
 </head>
 <body>
 <form action="Register" method="post">
+<div align ="center">
+<h1>New Employee Registration details</h1>
 <table>
 <tr><td>User Name: </td><td><input type="text" name="uname"></td></tr>
 <tr><td>Password: </td><td><input type="password" name="password"></td></tr>
@@ -15,6 +17,7 @@
 <tr><td>phone: </td><td><input type="text" name="phone"></td></tr>
 <tr><td></td><td><input type="submit" value="register"></td></tr>
 </table>
+</div>
 </form>
 </body>
 </html>
